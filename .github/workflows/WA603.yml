@@ -23,7 +23,8 @@ on:
 #    types: started
 
 env:
-  REPO_URL: https://github.com/hc8903/lede17.01_wa6x3xn
+  REPO_URL: https://github.com/houzhenggang/openwrt_wa6x3xn
+  ##REPO_URL: https://github.com/hc8903/lede17.01_wa6x3xn
   ###REPO_URL: https://github.com/project-openwrt/openwrt
   ##REPO_URL: https://github.com/coolsnowwolf/lede
   ####REPO_URL: https://github.com/coolsnowwolf/lede
